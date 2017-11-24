@@ -103,3 +103,4 @@
 * Qu’est-ce que OpQuast ?
 * Quelles sont les différences entre un client web et un serveur web ?
   * Donnez 3 exemples de chaque
+#defi-recherche-web
