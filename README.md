@@ -29,15 +29,17 @@
   Pour congigurer un réseau
   * 8.8.8.8             Le Domain Name System (ou DNS, système de noms de domaine) est un service permettant de traduire un nom de domaine en informations de plusieurs types qui y sont associées, notamment en adresses IP de la machine portant ce nom.https://openclassrooms.com/courses/apprenez-le-fonctionnement-des-reseaux-tcp-ip/le-service-dns
   * 192.168.0.1         adresse IP,chez certains fournisseurs d'accès) est généralement le moyen le plus simple d'accéder à votre box internet pour la configurer.http://www.commentcamarche.net
-  * 255.255.255.0       masque de sous-réseau
-  * 127.0.0.1           commande Dos Ping, localhost. Cette notion est utilisée pour simuler des communications IP sur un ordinateur mais sans envoyer de messages sur le réseau.   
+  * 255.255.255.0       masque de sous-réseau le plus courant, celui que l'on utilise généralement à la maison est 255.255.255.0https://www.vulgarisation-informatique.com/masque-sous-reseau.php
+  * 127.0.0.1           commande Dos Ping, localhost. Cette notion est utilisée pour simuler des communications IP sur un ordinateur mais sans envoyer de messages sur le réseau.http://www.materiel-informatique.be/localhost.php 
 * Que sont le copyright et le copyleft ?
-    Le copyright est une protection au titre de la Propriété Intellectuelle et plus précisément du Droit d'Auteur.
-    Le copyleft est une méthode générale pour rendre libre (domaine public) un programme (ou toute autre œuvre) et obliger toutes les versions modifiées ou étendues de ce programme à être libres également.
+    Le copyright est une protection au titre de la Propriété Intellectuelle et plus précisément du Droit d'Auteur.http://www.copyrightfrance.com/hypertext/copyright_logo_symbole_signe_sigle_clavier.htm
+    Le copyleft est une méthode générale pour rendre libre (domaine public) un programme (ou toute autre œuvre) et obliger toutes les versions modifiées ou étendues de ce programme à être libres également.https://www.gnu.org/licenses/copyleft.fr.html
 * Que sont les Creatives Commons ?http://creativecommons.fr/
       Creative Commons est une organisation à but non lucratif qui a pour dessein de faciliter la diffusion et le partage des oeuvres tout en accompagnant les nouvelles pratiques de création à l’ère numerique.
 * Qui est Grace Hopper ?
-* Qu'est-ce que Qwant ?
+   Grace Murray Hopper (1906 – 1992) est une informaticienne américaine et Rear admiral (lower half) de la marine américaine. Elle a inventé le Cobol,mis au point les premiers supercalculteurs et a été témoin du premier bug informatique de l’histoire de l’informatique. https://pixees.fr/grace-hopper/
+* Qu'est-ce que Qwant ?https://www.blogdumoderateur.com/qwant-moteur-recherche-vie-privee/
+    Qwant est le seul moteur de recherche qui protège la vie privée de ses utilisateurs, en ne collectant strictement aucune donnée personnelle lors des recherches.
 * Qui est Steve Wozniak ?
 * D'où vient l'expression "bug informatique" ?
 * Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
