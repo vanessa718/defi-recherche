@@ -17,15 +17,25 @@
 
 
 # Défi
-* Par qui, quand, pourquoi et où a été inventé Internet ?
+* Par qui, quand, pourquoi et où a été inventé Internet ? http://cyberarchiviste.over-blog.com
+  Eisenhower décide en 1958 de créer l'ARPA (Advanced Research Projects Agency) pour fédérer les ressources technologiques américaines.
+  Afin de développer l'informatique, le directeur de l'ARPA crée en 1962 l'IPTO (site internet), qui existe encore, et dont le directeur,  Joseph Carl Robnett Licklider, un informaticien spécialiste des techologies de l'information, imagine rapidement que l'ordinateur peut être un outil de communication.
+  Le 29 octobre 1969 à 10h30 marque la naissance d'Internet : l'UCLA (Université de Californie à Los Angeles) et le Stanford Research Institute communiquent à l'aide de deux ordinateurs reliés entre eux.
+  En décembre 1969 : 2 ordinateurs supplémentaires sont connectés à l'université de Californie à Santa Barbara et à l'université de l'UTAH. Le réseau baptisé "Arpanet" compte 4 noeuds. Un noeud désigne un ordinateur.
 * Quelle est la différence entre le Web et Internet ?
+   Le Web est le terme communément employé pour parler du World Wide Web, ou WWW, traduit en français par la toile d'araignée mondiale.http://www.journaldunet.com
+   Internet est le réseau informatique mondial qui rend accessible au public des services divers et variés comme le courrier électronique et le Web. Techniquement, Internet se définit comme le réseau public mondial utilisant le protocole de communication IP (Internet Protocole).
 * Qu’est-ce que cela :
-  * 8.8.8.8
-  * 192.168.0.1
-  * 255.255.255.0
-  * 127.0.0.1
+  Pour congigurer un réseau
+  * 8.8.8.8             Le Domain Name System (ou DNS, système de noms de domaine) est un service permettant de traduire un nom de domaine en informations de plusieurs types qui y sont associées, notamment en adresses IP de la machine portant ce nom.https://openclassrooms.com/courses/apprenez-le-fonctionnement-des-reseaux-tcp-ip/le-service-dns
+  * 192.168.0.1         adresse IP,chez certains fournisseurs d'accès) est généralement le moyen le plus simple d'accéder à votre box internet pour la configurer.http://www.commentcamarche.net
+  * 255.255.255.0       masque de sous-réseau
+  * 127.0.0.1           commande Dos Ping, localhost. Cette notion est utilisée pour simuler des communications IP sur un ordinateur mais sans envoyer de messages sur le réseau.   
 * Que sont le copyright et le copyleft ?
-* Que sont les Creatives Commons ?
+    Le copyright est une protection au titre de la Propriété Intellectuelle et plus précisément du Droit d'Auteur.
+    Le copyleft est une méthode générale pour rendre libre (domaine public) un programme (ou toute autre œuvre) et obliger toutes les versions modifiées ou étendues de ce programme à être libres également.
+* Que sont les Creatives Commons ?http://creativecommons.fr/
+      Creative Commons est une organisation à but non lucratif qui a pour dessein de faciliter la diffusion et le partage des oeuvres tout en accompagnant les nouvelles pratiques de création à l’ère numerique.
 * Qui est Grace Hopper ?
 * Qu'est-ce que Qwant ?
 * Qui est Steve Wozniak ?
@@ -103,4 +113,5 @@
 * Qu’est-ce que OpQuast ?
 * Quelles sont les différences entre un client web et un serveur web ?
   * Donnez 3 exemples de chaque
+#defi-recherche-web
 #defi-recherche-web
